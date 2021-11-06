@@ -10,6 +10,7 @@ plotly-express = "*"
 pandas = "*"
 dash-bootstrap-components = "*"
 requests = "*"
+gunicorn = "*"
 
 [dev-packages]
 
